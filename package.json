@@ -1,8 +1,8 @@
 {
   "name": "test-semantic-release",
   "version": "1.7.0",
-  "repository": "https://github.com/marck-oemar/test-semantic-release",
-  "author": "marck.oemar@gmail.com",
+  "repository": "https://github.com/timverhoef/test-semantic-release",
+  "author": "tim.verhoef@gmail.com",
   "license": "N/A",
   "devDependencies": {
     "@saithodev/semantic-release-backmerge": "^1.1.1",
