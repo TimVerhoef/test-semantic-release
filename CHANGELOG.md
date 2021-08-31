@@ -1,5 +1,14 @@
 # Semantic Versioning Changelog
 
+# [1.8.0](https://github.com/timverhoef/test-semantic-release/compare/v1.7.0...v1.8.0) (2021-08-31)
+
+
+### Features
+
+* added bb ([38ca44b](https://github.com/timverhoef/test-semantic-release/commit/38ca44bb7f86c4f79e87516597dfcbbe544f40c5))
+* added cc ([1cc8097](https://github.com/timverhoef/test-semantic-release/commit/1cc80974eae58f070d271a11c322bd8d2a5be04c))
+* updated repo location and author ([1a578dc](https://github.com/timverhoef/test-semantic-release/commit/1a578dcb155e10acda4dc31a63c4632063d0b932))
+
 # [1.7.0](https://github.com/marck-oemar/test-semantic-release/compare/v1.6.0...v1.7.0) (2021-07-21)
 
 
